@@ -1,5 +1,7 @@
-# multimedia-hw4
-這次的作業在繳交的資料夾中又分為prob1和prob2的資料夾
+# Goal
+(Spec)[https://drive.google.com/file/d/1Y1zBzRUWcBRcZhG3Qyejdxl3bBlNfflS/view?usp=sharing]
+
+# Code Functionality
 
 prob1中的檔案是第一題的程式碼、程式要讀取的資料、圖片結果。
 要執行prob1的程式，請打開que.m的script，然後用matlab run，即可看到結果。

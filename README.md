@@ -1,5 +1,5 @@
 # Goal
-(Spec)[https://drive.google.com/file/d/1Y1zBzRUWcBRcZhG3Qyejdxl3bBlNfflS/view?usp=sharing]
+[Spec](https://drive.google.com/file/d/1Y1zBzRUWcBRcZhG3Qyejdxl3bBlNfflS/view?usp=sharing)
 
 # Code Functionality
 
